@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gvilarino/docker-testing.git"
+    "url": "git+https://github.com/andreshserna"
   },
-  "author": "gvilarino",
+  "author": "andreshserna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gvilarino/docker-testing/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/gvilarino/docker-testing#readme",
+  "homepage": "",
   "dependencies": {
     "express": "4.16.4",
     "mongodb": "3.1.9"
